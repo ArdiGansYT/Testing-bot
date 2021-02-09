@@ -1,4 +1,4 @@
-# Drawl Nag
+# ArdiGans YT
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-BOT3
-> cd Arya-BOT3
+> git clone https://github.com/ArdiGansYT/Testing-bot
+> cd Testing-bot
 > npm install
 ```
 ###### Run
